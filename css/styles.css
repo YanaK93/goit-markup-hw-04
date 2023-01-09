@@ -468,6 +468,7 @@ margin-bottom: 8px;
   margin: 0 auto;
   padding-left: 15px;
   padding-right: 15px;
+  display: flex;
 }
 
 img {
@@ -617,9 +618,5 @@ footer {
 
 .footer-social-link:hover {
   background-color: #31D0AA;
-}
-
-.footer>.container {
-  display: flex;
 }
 

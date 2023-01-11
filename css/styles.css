@@ -154,7 +154,6 @@ align-items: center;
 .btn {
   font-family: "Roboto", sans-serif;
   background: var(--header-color);
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   border: none;
   padding: 16px 32px;
@@ -349,7 +348,6 @@ align-items: center;
   display: block;
   color: var(--first-title-color);
   text-decoration: none;
-  flex-direction: column;
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 
